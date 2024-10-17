@@ -6,6 +6,6 @@ You can find the Postman collection for this API [here](Lab3req/Students API.pos
 
 ## Swagger
 
-![Swagger Screenshot](screenshot.png)
+![Swagger Screenshot](lab3req/screenshot.png)
 
 
