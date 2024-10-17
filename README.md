@@ -5,6 +5,6 @@ Postman collection [here]([Lab3req/Students API.postman_collection.json](https:/
 
 ## Swagger
 
-![Screenshot](lab3req/screenshot.png)
+![](Images/screenshot.png)
 
 
